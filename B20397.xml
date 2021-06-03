@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat to the unwary: or, Venus unveil'd. With all her venerial train, as also her several disguises and various shapes and forms laid open, after a pretended cure ...</title>
+            <author>Clark, T., fl. 1700.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20397</idno><idno type="EEBO-CITATION">99882489</idno>
+  <idno type="VID">195986</idno>
+  <idno type="EEBO-PROQUEST">2240872817</idno>
+  
+            <idno type="STC">Wing C4561B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[179]</idno>
+            <idno type="STC">ESTC N69700</idno>
+            <idno type="STC">ESTC R231919</idno>
+            <idno type="PROQUEST">ocm99882489</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882489e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195986)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[182])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat to the unwary: or, Venus unveil'd. With all her venerial train, as also her several disguises and various shapes and forms laid open, after a pretended cure ...</title>
+                  <author>Clark, T., fl. 1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint and author information from Wing (CD-ROM, 1996).</note>
+                  <note>Title taken from caption.</note>
+                  <note>With a woodcut illustration of supine figure covered with scabs; the words "In maximus meis Doloribus" are in compartment above figure.</note>
+                  <note>Imperfect: loss of text in caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195986:1"/>
+            <head>A <hi>Caveat to the Vnwary:</hi>
+               <figure>
+                  <head>In maximis meis Doloribus.</head>
+               </figure> Or, VENUS Unveil'd.</head>
+            <p>With all her <hi>Venerial Train,</hi> as also her several <hi>Disguises</hi> and various <hi>Shape<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Forms</hi> laid open, <hi>after a Pretended Cure by Quac<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tyranny against the Health of Mankind</hi> is pu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ally destroyed, by those <hi>Infallable Antiv<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Clark,</hi> lately residing in the <hi>Strand,</hi> who w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one of the Chief Physicians to King <hi>Charles</hi> I. and whose singular Skill, not only in the Cure of all <hi>Venereal Maladies,</hi> but a so in all other Diseases incident to <hi>Humane Bodies,</hi> his admirable Success having <hi>rendred him most Famous.</hi>
+            </p>
+            <p>HIS Son <hi>T. Clark,</hi> M. D. having practised by the same Methods and Medicines Forty Years, and with the like most happy Success his Father did, without ever giving out Bills, till now; but seeing daily the male Practise, and direful Effects, and how many dye Martyrs to <hi>Venus</hi> by Pretenders, and how many more are in Dan<g ref="char:EOLhyphen"/>ger of Spoil and Ruin by them, he has therefore thought himself obli<g ref="char:EOLhyphen"/>ged, in Charity and Compassion to give this Bill as a Precaution, in order to prevent so much as may be future Evils by such Medicastors, who amuse and impose on the Patient; for how many pretend to cure a CLAP, <hi>with the worst of Symptoms,</hi> in 24 Hours, only by Externals, without the least Medicine inwardly; others by ill tempered <hi>Mer<g ref="char:EOLhyphen"/>curial Medicines,</hi> which too often precipitates the <hi>Miasm</hi> of a <hi>Simple</hi>
+               <pb facs="tcp:195986:2"/>CLAP, <hi>Gonorrhaea</hi> or <hi>Running of the Reins</hi> into a Grand <hi>POX;</hi> And others by palliating, stopping Medicines, have lock'd up the Infection, which lying dormant some Years, has at last broken out into the highest Degree of the <hi>Lues Veneria,</hi> to the total Ruin of that Ornament to the Face [the NOSE] and too often the Life of the Patient.
+<q>
+                  <l>Beware of Quacks, <hi>MERCURY,</hi> and all such Foes,</l>
+                  <l>Lest Need require a Supplymental Nose.</l>
+               </q>
+            </p>
+            <p>'TIS observable, That the Reliques of a <hi>Pox, Clap</hi> or any <hi>Venereal Infection,</hi> not Radically Cured, is the Product of most Stubborn, Chronic and Difficult Maladies, and <hi>Proteus</hi>-like it transforms it self into many Shapes, for the <hi>Venereal</hi> Infection, mixing with the Blood, and joyning Forces with <hi>Cacochymic Juices,</hi> 'tis thereby cast off upon the Principal Parts of Life, so as to cause this or that individual Malady, which is of more Contumacy in some DISEASES, as in Rhumatisms, Gouts, Palsies, Atrophey, Consumptions, King's-Evil, Exostosies, or Rottenness of the Bones, running Gleets, Barrenness, Whites, as also Cancers, and Cancerous Humours falling upon the Breasts of Women, and in the Privy Parts; as also violent Head-achs, Blindness and Cor<g ref="char:EOLhyphen"/>roding Humours in the Eyes, and other Parts of the Body.</p>
+            <p>Sometimes the <hi>Venereal Reliques</hi> of a CLAP or POX, not well cured at first, is transmitted by Parents to their Issue, which cause Children who promise well at First, to be short liv'd, and often to break out into grievous sore Ulcers, King's Evil, <hi>&amp;c.</hi> and other Indis<g ref="char:EOLhyphen"/>positions, which are never cured, but by such-like proper Antivenerials, which both prevent and cure, as Thousands have found, after all other Means have failed.</p>
+            <p>
+               <hi>Note,</hi> That these <hi>Antivenereals</hi> have not only a Secret Antipathy against all <hi>Pocky Enemies</hi> to the <hi>Vital Agreement,</hi> but also to the most inveterare, corroding and cancerous <hi>Humours,</hi> as appears by the can<g ref="char:EOLhyphen"/>cerated <hi>Breasts of Women,</hi> who have been cured thereby, without cut<g ref="char:EOLhyphen"/>ting off: It dissolves all hard Swellings in the Throat, Face, Lips, or any part of the Body, and infallibly cures the King's-Evil, altho' ever so Fistulous, thro' rottenness of the Bones. It cures <hi>Fistula in Ano,</hi> Ulcers in the Neck of the Bladder, and all <hi>Utrine Distempers,</hi> which cause Barrenness and other Maladies of the Womb. In short, it restores a good Temperature of Body, whereby perfect Health may be gained to the <hi>Prolongation of Life,</hi> and Felicity of a most healthful <hi>Constitution,</hi> without Salivation, Danger of Mercury or Confinement, and for less Charge, and in less Time, and fewer Doses than is usual for the Perfection of a Cure.</p>
+            <p>The DOCTOR, for the <hi>real Good of the Publick,</hi> will give his Advice in all Diseases <hi>gratis,</hi> at his House in <hi>Plough-Yard,</hi> in <hi>Fetter-lane,</hi> at the Green Door &amp; two Golden Spikes. Attendance till 6 in the Evening <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
